@@ -1,3 +1,7 @@
+## Code copied from: https://github.com/sirloon/pharmgkb/tree/pharmgkb_v2
+
+# Single data source test:
+
 From annotations.zip:
 - var_drug_ann.tsv: variant-gene-drug annotations
  
